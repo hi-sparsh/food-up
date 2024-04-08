@@ -12,7 +12,7 @@
 
 ### 🔷 NodeJs
 
-⚠️To begin with the Node JS installation process, first you need to make sure you have sufficient space and your RAM is at least 4GB
+⚠️To begin with the Node JS installation process, first you need to make sure you hav fcdxfcfucgufficient space and your RAM is at least 4GB
 
 #### Steps to set up NodeJS
 
